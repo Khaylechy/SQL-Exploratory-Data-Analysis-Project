@@ -89,4 +89,4 @@ The scripts are numbered to reflect the natural analytical workflow:
 ## 👤 Author
 
 **Kelechi Madubuko** — Financial & Data Analyst  
-[LinkedIn](https://www.linkedin.com/in/kelechimadubuko/) · [GitHub](https://github.com/Khaylechy)
+[LinkedIn](https://www.linkedin.com/in/kelechi-madubuko/) · [GitHub](https://github.com/Khaylechy)
